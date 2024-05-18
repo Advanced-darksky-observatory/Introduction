@@ -1,4 +1,5 @@
 # Advanced Darksky Observatory (ADO) @ IITH
+## Introduction
 The Advanced Darksky Observatory at IIT Hyderabad is the first in-campus research observatory among all IITs which aims to provide both cutting edge astronomy and engineering research.  It was inaugurated by Dr. K.  Radhakrishnan (former Chairman, ISRO) on 28th February, 2023 and the research division is being led under Dr. Mayukh Pahari
 
 ## Observatory features
