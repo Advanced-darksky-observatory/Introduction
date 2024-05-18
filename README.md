@@ -1,4 +1,4 @@
-# Advanced Darksky Observatory (ADO) @IITH
+# Advanced Darksky Observatory (ADO) @ IITH
 We are focussed on making our research and data publicly available
 
 ## Observatory features
